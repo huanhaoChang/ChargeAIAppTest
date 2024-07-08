@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Sitter_CarAndAI_Test" parent="android:Theme.Material.NoActionBar" />
+</resources>
